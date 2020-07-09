@@ -1,0 +1,5 @@
+Dependencies:
+Python 3.8
+pip install scikit
+pip install matplotlib
+pip install panda
